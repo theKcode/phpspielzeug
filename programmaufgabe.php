@@ -36,6 +36,12 @@ for($i = 1; $i <= 200; $i++) {
                 $flag=true;
         }
 
+        if( ($i %(2*5*7))  == 0)
+        {
+                $j = "zweifuenfsieben\n";
+                $flag=true;
+        }
+
 
 
 	echo "$j\n";
