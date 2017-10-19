@@ -6,8 +6,8 @@
 for($i = 1; $i < 200; $i++) {
 
 
-// Änderung !!!!!!!
 
+// commit -a
 	$flag=false;
     if($i % 2 == 0)
 	{
